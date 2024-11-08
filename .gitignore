@@ -165,3 +165,4 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 >>>>>>> fce9c39e53bac1f4b829c3579b1075ad336b5762
+/product_photos
